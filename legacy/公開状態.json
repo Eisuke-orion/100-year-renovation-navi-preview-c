@@ -1,0 +1,40 @@
+{
+  "environment": "C",
+  "status": "review_draft",
+  "accepted_reference_episodes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "draft_episodes": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "production_publication_date": null,
+  "updated": "2026-09-11"
+}

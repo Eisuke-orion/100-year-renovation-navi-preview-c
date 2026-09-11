@@ -1,0 +1,141 @@
+[
+  {
+    "episode": 21,
+    "sources": [
+      [
+        "財務省・税関『関税評価の初歩』（2023年10月）",
+        "https://www.customs.go.jp/zeikan/seido/kanzeihyokashoho.pdf",
+        "第1節の関税の基本。個別の最新税率・工事価格予測には使わない。"
+      ],
+      [
+        "国土交通省『主要建設資材需給・価格動向調査』",
+        "https://www.mlit.go.jp/statistics/details/t-kgyo-2_tk_000012.html",
+        "第2節の統計の位置づけ。具体的な上昇率は掲載しない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 22,
+    "sources": [
+      [
+        "住宅金融支援機構『入居後の住まいの保守管理』",
+        "https://www.jhf.go.jp/hensai/hosyu/kanri.html",
+        "第2節の点検条件、第6節の工事記録。家の寿命の延長年数は主張しない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 23,
+    "sources": [
+      [
+        "消費者庁『高齢者の事故を防ぐために』",
+        "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_055/",
+        "第1・2節の環境と身体の両面からの転倒予防。事故割合・地域順位は掲載しない。"
+      ],
+      [
+        "ベターリビング『BL部品とは』",
+        "https://www.cbl.or.jp/blsys/blnintei/index",
+        "第3節の認定制度への案内。個別施工の安全保証ではない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 24,
+    "sources": [
+      [
+        "国土交通省『サブリース契約をする際の主な注意点』",
+        "https://www.mlit.go.jp/common/001258496.pdf",
+        "第4節の賃料見直し、解約、修繕負担。旧制度の登録要件は本文に転記しない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 25,
+    "sources": [],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 26,
+    "sources": [
+      [
+        "住宅金融支援機構『住宅ローンシミュレーション』",
+        "https://www.jhf.go.jp/simulation_loan/",
+        "第2節の家計とライフイベントを踏まえた試算。特定ローンの推奨は行わない。"
+      ],
+      [
+        "住宅金融支援機構『ご返済中の方』",
+        "https://www.jhf.go.jp/hensai/",
+        "第3節の返済中の住まいと手続きの確認先。全金融機関共通の条件とはしない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 27,
+    "sources": [
+      [
+        "ダイキン工業『梅雨の困りごとと解決法』",
+        "https://www.daikin.co.jp/air/life/laboratory/rainy-season",
+        "第1・2節の風と除湿の役割。製品推奨や乾燥時間・電気代の数値は引用しない。"
+      ],
+      [
+        "ダイキン工業『上手な換気の方法 住宅編』",
+        "https://www.daikin.co.jp/air/life/ventilation",
+        "第2節の換気設備・給気経路の確認。個々の家の換気性能を保証しない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 28,
+    "sources": [
+      [
+        "消費者庁『高齢者の事故を防ぐために』",
+        "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_055/",
+        "第1節の危険箇所を照らす対策。照度・事故削減率は主張しない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 29,
+    "sources": [
+      [
+        "住宅金融支援機構『入居後の住まいの保守管理』",
+        "https://www.jhf.go.jp/hensai/hosyu/kanri.html",
+        "第1・3節の図面や工事記録の保管。五項目の構成は筆者による整理。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  },
+  {
+    "episode": 30,
+    "sources": [
+      [
+        "IPA『家庭用ルータ・IoTルータ等、ネットワーク境界のORB化のおそれについて』（2025年10月31日）",
+        "https://www.ipa.go.jp/security/security-alert/2025/alert20251031_router.html",
+        "第5節のパスワード、更新、サポート終了の確認。"
+      ],
+      [
+        "IPA『セキュリティラベリング制度 JC-STAR についての詳細情報』",
+        "https://www.ipa.go.jp/security/jc-star/detail.html",
+        "第5節の制度の確認先。個別の利用やプライバシーの保証とはしない。"
+      ]
+    ],
+    "status": "初稿・内容承認待ち",
+    "checked_date": "2026-09-11"
+  }
+]
