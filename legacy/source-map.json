@@ -3,139 +3,274 @@
     "episode": 21,
     "sources": [
       [
-        "財務省・税関『関税評価の初歩』（2023年10月）",
-        "https://www.customs.go.jp/zeikan/seido/kanzeihyokashoho.pdf",
-        "第1節の関税の基本。個別の最新税率・工事価格予測には使わない。"
+        "万博協会：2023年会場建設費の精査結果",
+        "https://www.expo2025.or.jp/wp/wp-content/uploads/20231107_kaijyoukennsetuhi_seisa.pdf",
+        "改訂本文の出典欄を参照。"
       ],
       [
-        "国土交通省『主要建設資材需給・価格動向調査』",
-        "https://www.mlit.go.jp/statistics/details/t-kgyo-2_tk_000012.html",
-        "第2節の統計の位置づけ。具体的な上昇率は掲載しない。"
+        "パナソニック：住宅設備等の価格改定（2025年9月17日）",
+        "https://news.panasonic.com/jp/press/jn250917-1",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "住まいるダイヤル：リフォーム見積チェックサービス",
+        "https://www.chord.or.jp/reform/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "NITE：ガス給湯器の事故・悪質な点検勧誘への注意",
+        "https://www.nite.go.jp/jiko/chuikanki/mailmagazin/2024fy/vol471_250225.html",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 22,
     "sources": [
       [
-        "住宅金融支援機構『入居後の住まいの保守管理』",
-        "https://www.jhf.go.jp/hensai/hosyu/kanri.html",
-        "第2節の点検条件、第6節の工事記録。家の寿命の延長年数は主張しない。"
+        "不動産公正取引協議会連合会：2025年8月26日施行の規約集",
+        "https://www.rftc.jp/webkanri/kanri/wp-content/uploads/2025/08/20250826_kiyakushuu.pdf",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "NITE：ガス給湯器の事故",
+        "https://www.nite.go.jp/jiko/chuikanki/mailmagazin/2024fy/vol471_250225.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "国土交通省：新築住宅を取得する方へ",
+        "https://www.mlit.go.jp/jutakukentiku/jutaku-kentiku.files/kashitanpocorner/consumer/newly_house.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "LIXIL：キッチン製品の保証",
+        "https://www.lixil.co.jp/support/warranty/kitchen/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "LIXIL：浴室製品の保証",
+        "https://www.lixil.co.jp/support/warranty/bathroom/",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 23,
     "sources": [
       [
-        "消費者庁『高齢者の事故を防ぐために』",
-        "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_055/",
-        "第1・2節の環境と身体の両面からの転倒予防。事故割合・地域順位は掲載しない。"
+        "高齢者住宅協会：主要動線のバリアフリー",
+        "https://www.satsuki-jutaku.mlit.go.jp/journal/article/p=806",
+        "改訂本文の出典欄を参照。"
       ],
       [
-        "ベターリビング『BL部品とは』",
-        "https://www.cbl.or.jp/blsys/blnintei/index",
-        "第3節の認定制度への案内。個別施工の安全保証ではない。"
+        "LIXIL：浴室手すりが外れた事故事例",
+        "https://www.lixil.co.jp/support/safety/bathroom4.htm",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "消費者庁：高齢者の事故を防ぐために",
+        "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_055/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "消費者庁：入浴中の事故への備え",
+        "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_009/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "厚生労働省：福祉用具・住宅改修",
+        "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000212398.html",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 24,
     "sources": [
       [
-        "国土交通省『サブリース契約をする際の主な注意点』",
+        "国土交通省：サブリース契約の注意点",
         "https://www.mlit.go.jp/common/001258496.pdf",
-        "第4節の賃料見直し、解約、修繕負担。旧制度の登録要件は本文に転記しない。"
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "豊明市：償却資産申告の案内（舗装・砂利）",
+        "https://www.city.toyoake.lg.jp/secure/2745/shoukyakusisan.pdf",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "東京都主税局：固定資産税・都市計画税",
+        "https://www.tax.metro.tokyo.lg.jp/kazei/real_estate/kotei_tosi",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 25,
     "sources": [],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 26,
     "sources": [
       [
-        "住宅金融支援機構『住宅ローンシミュレーション』",
-        "https://www.jhf.go.jp/simulation_loan/",
-        "第2節の家計とライフイベントを踏まえた試算。特定ローンの推奨は行わない。"
+        "住宅金融支援機構：返済中の融資住宅を賃貸にする場合",
+        "https://jhffaq.jp/jhffaq/flat35/web/knowledge3149.html",
+        "改訂本文の出典欄を参照。"
       ],
       [
-        "住宅金融支援機構『ご返済中の方』",
-        "https://www.jhf.go.jp/hensai/",
-        "第3節の返済中の住まいと手続きの確認先。全金融機関共通の条件とはしない。"
+        "フラット35：ペアローン",
+        "https://www.flat35.com/loan/lineup/pair/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "フラット35：借入条件・親子リレー返済",
+        "https://www.flat35.com/loan/lineup/flat35/conditions.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "全国銀行協会：住宅ローンの金利タイプ",
+        "https://www.zenginkyo.or.jp/article/tag-d/5212/",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 27,
     "sources": [
       [
-        "ダイキン工業『梅雨の困りごとと解決法』",
-        "https://www.daikin.co.jp/air/life/laboratory/rainy-season",
-        "第1・2節の風と除湿の役割。製品推奨や乾燥時間・電気代の数値は引用しない。"
+        "内閣府：2026年3月消費動向調査・主要耐久消費財",
+        "https://www.esri.cao.go.jp/jp/stat/shouhi/kekkanogaiyou2026.pdf",
+        "改訂本文の出典欄を参照。"
       ],
       [
-        "ダイキン工業『上手な換気の方法 住宅編』",
-        "https://www.daikin.co.jp/air/life/ventilation",
-        "第2節の換気設備・給気経路の確認。個々の家の換気性能を保証しない。"
+        "パナソニック：2026年洗濯もの干し全国実態調査",
+        "https://panasonic.jp/topics/2026/05/000001201.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "3COINS：折りたたみ式スパイラルハンガー",
+        "https://www.palcloset.jp/display/item/2615-NGR05-0000/?b=3coins",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "無印良品：アルミ 壁面でも使えるハンガー",
+        "https://www.muji.com/jp/ja/store/cmdty/detail/4548076404743",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "無印良品：アルミ バスタオル用伸縮ハンガー",
+        "https://www.muji.com/jp/ja/store/cmdty/detail/4548076953937",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "カインズ：引っ掛けて使える室内物干しハンガー",
+        "https://www.cainz.com/g/4549509964797.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "ハンズ仙台店：室内干し用品の紹介（過去の紹介記事）",
+        "https://store.hands.net/sendai/item/post-1455241317.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "パナソニック ホームズ：ランドリールームを設けた改修例",
+        "https://homes.panasonic.com/case/RE00928.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "杜プラス：ランドリールーム施工例",
+        "https://moriplus.com/case/58/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "All About ニュース：SNSで紹介された壁面ハンガー",
+        "https://news.livedoor.com/article/detail/31878779/",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 28,
     "sources": [
       [
-        "消費者庁『高齢者の事故を防ぐために』",
-        "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_055/",
-        "第1節の危険箇所を照らす対策。照度・事故削減率は主張しない。"
+        "総務省統計局：2025年平均消費者物価指数の概要",
+        "https://www.stat.go.jp/info/t-news/pdf/2603.pdf",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "大和証券：金融・証券用語解説（スタグフレーション）",
+        "https://www.daiwa.jp/glossary/YST2300.html",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "厚生労働省：毎月勤労統計調査・結果",
+        "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 29,
     "sources": [
       [
-        "住宅金融支援機構『入居後の住まいの保守管理』",
+        "住宅履歴情報蓄積・活用推進協議会：いえかるて",
+        "https://www.iekarute.or.jp/iekarute/rireki/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "住宅金融支援機構：入居後の住まいの保守管理",
         "https://www.jhf.go.jp/hensai/hosyu/kanri.html",
-        "第1・3節の図面や工事記録の保管。五項目の構成は筆者による整理。"
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   },
   {
     "episode": 30,
     "sources": [
       [
-        "IPA『家庭用ルータ・IoTルータ等、ネットワーク境界のORB化のおそれについて』（2025年10月31日）",
-        "https://www.ipa.go.jp/security/security-alert/2025/alert20251031_router.html",
-        "第5節のパスワード、更新、サポート終了の確認。"
+        "SwitchBot：スマートロックと照明などの連携例",
+        "https://blog.switchbot.jp/product/how-to-use-ceiling-light-pro/",
+        "改訂本文の出典欄を参照。"
       ],
       [
-        "IPA『セキュリティラベリング制度 JC-STAR についての詳細情報』",
-        "https://www.ipa.go.jp/security/jc-star/detail.html",
-        "第5節の制度の確認先。個別の利用やプライバシーの保証とはしない。"
+        "SwitchBot：ロックUltraの機能と連携条件",
+        "https://www.switchbot.jp/products/switchbot-lock-ultra",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "Nature：スマートホーム利用者インタビュー",
+        "https://shop.nature.global/blogs/interview/article",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "Nature：家族で暮らす家の自動化",
+        "https://nature.global/blog/12624/",
+        "改訂本文の出典欄を参照。"
+      ],
+      [
+        "IPA：家庭用ルータ・IoTルータ等への注意",
+        "https://www.ipa.go.jp/security/security-alert/2025/alert20251031_router.html",
+        "改訂本文の出典欄を参照。"
       ]
     ],
-    "status": "初稿・内容承認待ち",
-    "checked_date": "2026-09-11"
+    "status": "レビュー反映済み・内容承認待ち",
+    "checked_date": "2026-09-28"
   }
 ]
