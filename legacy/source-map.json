@@ -97,9 +97,14 @@
         "東京都主税局：固定資産税・都市計画税",
         "https://www.tax.metro.tokyo.lg.jp/kazei/real_estate/kotei_tosi",
         "本文・制度の確認資料"
+      ],
+      [
+        "国土交通省：定期借地権の活用",
+        "https://www.mlit.go.jp/totikensangyo/totikensangyo_tk5_000108.html",
+        "土地を貸して使う選択肢"
       ]
     ],
-    "status": "PDF指摘反映・一次資料確認済み",
+    "status": "追加指示により土地活用全般へ再構成・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
