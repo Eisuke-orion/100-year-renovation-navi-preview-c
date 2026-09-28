@@ -3,22 +3,22 @@
     "episode": 21,
     "sources": [
       [
-        "万博協会：2023年会場建設費の精査結果",
-        "https://www.expo2025.or.jp/wp/wp-content/uploads/20231107_kaijyoukennsetuhi_seisa.pdf",
-        "改訂本文の出典欄を参照。"
+        "国土交通省：建設工事費デフレーター",
+        "https://www.mlit.go.jp/sogoseisaku/jouhouka/sosei_jouhouka_tk4_000112.html",
+        "本文・制度の確認資料"
       ],
       [
         "住まいるダイヤル：リフォーム見積チェックサービス",
         "https://www.chord.or.jp/reform/",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
-        "NITE：ガス給湯器の事故・悪質な点検勧誘への注意",
-        "https://www.nite.go.jp/jiko/chuikanki/mailmagazin/2024fy/vol471_250225.html",
-        "改訂本文の出典欄を参照。"
+        "国民生活センター：給湯器の点検商法にご注意ください",
+        "https://www.kokusen.go.jp/news/data/n-20240221_1.html",
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
@@ -27,42 +27,57 @@
       [
         "NITE：ガス給湯器の事故",
         "https://www.nite.go.jp/jiko/chuikanki/mailmagazin/2024fy/vol471_250225.html",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "国土交通省：新築住宅を取得する方へ",
         "https://www.mlit.go.jp/jutakukentiku/jutaku-kentiku.files/kashitanpocorner/consumer/newly_house.html",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
+      ],
+      [
+        "国土交通省：住宅瑕疵担保履行法に関するQ&A（品確法の責任）",
+        "https://www.mlit.go.jp/jutakukentiku/jutaku-kentiku.files/kashitanpocorner/rikouhou/qanda.html",
+        "本文・制度の確認資料"
+      ],
+      [
+        "ベターリビング：BL保険制度",
+        "https://www.cbl.or.jp/blsys/hoken/index",
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
     "episode": 23,
     "sources": [
       [
-        "高齢者住宅協会：主要動線のバリアフリー",
+        "一般社団法人 高齢者住宅協会：高齢者【リフォーム】＜ポイント⑤＞住宅内の生活動線を安全で安心な空間に整えよう",
         "https://www.satsuki-jutaku.mlit.go.jp/journal/article/p=806",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "消費者庁：高齢者の事故を防ぐために",
         "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_055/",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "消費者庁：入浴中の事故への備え",
         "https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_009/",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "厚生労働省：福祉用具・住宅改修",
         "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000212398.html",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
+      ],
+      [
+        "厚生労働省：介護保険における住宅改修",
+        "https://www.mhlw.go.jp/content/12300000/001016043.pdf",
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
@@ -71,26 +86,37 @@
       [
         "国土交通省：サブリース契約の注意点",
         "https://www.mlit.go.jp/common/001258496.pdf",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "豊明市：償却資産申告の案内（舗装・砂利）",
         "https://www.city.toyoake.lg.jp/secure/2745/shoukyakusisan.pdf",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "東京都主税局：固定資産税・都市計画税",
         "https://www.tax.metro.tokyo.lg.jp/kazei/real_estate/kotei_tosi",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
     "episode": 25,
-    "sources": [],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "sources": [
+      [
+        "100年リフォームナビ：仕事や趣味を楽しむ",
+        "https://www.cbl.or.jp/r-navi/search_theme/lifestyles/enjoy/",
+        "本文・制度の確認資料"
+      ],
+      [
+        "100年リフォームナビ：窓",
+        "https://www.cbl.or.jp/r-navi/search_part/window/",
+        "本文・制度の確認資料"
+      ]
+    ],
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
@@ -99,37 +125,42 @@
       [
         "住宅金融支援機構：返済中の融資住宅を賃貸にする場合",
         "https://jhffaq.jp/jhffaq/flat35/web/knowledge3149.html",
-        "改訂本文の出典欄を参照。"
-      ],
-      [
-        "フラット35：ペアローン",
-        "https://www.flat35.com/loan/lineup/pair/",
-        "改訂本文の出典欄を参照。"
-      ],
-      [
-        "フラット35：借入条件・親子リレー返済",
-        "https://www.flat35.com/loan/lineup/flat35/conditions.html",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "全国銀行協会：住宅ローンの金利タイプ",
         "https://www.zenginkyo.or.jp/article/tag-d/5212/",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
+      ],
+      [
+        "国税庁：No.4508 直系尊属から住宅取得等資金の贈与を受けた場合の非課税",
+        "https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4508.htm",
+        "本文・制度の確認資料"
+      ],
+      [
+        "国税庁：マイホームを持ったとき",
+        "https://www.nta.go.jp/publication/pamph/koho/kurashi/html/05_1.htm",
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
     "episode": 27,
     "sources": [
       [
-        "内閣府：2026年3月消費動向調査・主要耐久消費財",
-        "https://www.esri.cao.go.jp/jp/stat/shouhi/kekkanogaiyou2026.pdf",
-        "改訂本文の出典欄を参照。"
+        "内閣府：消費動向調査 2026年3月実施調査結果（主要耐久消費財の普及率）",
+        "https://www.esri.cao.go.jp/jp/stat/shouhi/honbun202603.pdf",
+        "本文・制度の確認資料"
+      ],
+      [
+        "100年リフォームナビ：浴室・洗面室を使いやすく・快適に",
+        "https://www.cbl.or.jp/r-navi/search_theme/life/bathroom/",
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
@@ -138,20 +169,10 @@
       [
         "総務省統計局：2025年平均消費者物価指数の概要",
         "https://www.stat.go.jp/info/t-news/pdf/2603.pdf",
-        "改訂本文の出典欄を参照。"
-      ],
-      [
-        "内閣府：2025年11月27日記者会見要旨（用語の説明）",
-        "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2025/1127interview.html",
-        "改訂本文の出典欄を参照。"
-      ],
-      [
-        "厚生労働省：毎月勤労統計調査・結果",
-        "https://www.mhlw.go.jp/toukei/list/30-1a.html",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
@@ -160,15 +181,20 @@
       [
         "住宅履歴情報蓄積・活用推進協議会：いえかるて",
         "https://www.iekarute.or.jp/iekarute/rireki/",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
       ],
       [
         "住宅金融支援機構：入居後の住まいの保守管理",
         "https://www.jhf.go.jp/hensai/hosyu/kanri.html",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
+      ],
+      [
+        "国土交通省：住宅履歴情報の蓄積・活用の指針（住宅履歴情報整備検討委員会）",
+        "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk4_000002.html",
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   },
   {
@@ -177,10 +203,15 @@
       [
         "IPA：家庭用ルータ・IoTルータ等への注意",
         "https://www.ipa.go.jp/security/security-alert/2025/alert20251031_router.html",
-        "改訂本文の出典欄を参照。"
+        "本文・制度の確認資料"
+      ],
+      [
+        "NOTICE：IoT機器の安全な管理方法",
+        "https://notice.go.jp/safety",
+        "本文・制度の確認資料"
       ]
     ],
-    "status": "メーカー・ブランドの個別紹介を整理済み・内容承認待ち",
+    "status": "PDF指摘反映・一次資料確認済み",
     "checked_date": "2026-09-28"
   }
 ]
