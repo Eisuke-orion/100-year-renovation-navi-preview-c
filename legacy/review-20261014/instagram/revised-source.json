@@ -1,4 +1,12 @@
 {
+  "branding": {
+    "footer_official_name": "人生100年時代のリフォーム応援ナビサイト",
+    "footer_lines": [
+      "人生100年時代の",
+      "リフォーム応援ナビサイト"
+    ],
+    "footer_px": 28
+  },
   "posts": [
     {
       "post": 17,
