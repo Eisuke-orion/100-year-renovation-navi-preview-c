@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc"><title id="title">水道使用量が増えたときの確認フロー</title><desc id="desc">すべての水使用停止を確認してメーターを見る。パイロットが動けば漏水相談。止まっていても湿りや異音が続く場合は相談。</desc><defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="none" stroke="#66816a" stroke-width="1.5"/></marker></defs><style>text{font-family:'Noto Sans JP','Hiragino Kaku Gothic ProN',sans-serif;fill:#293d35}.title{font-size:30px;font-weight:700}.label{font-size:24px;font-weight:700}.small{font-size:20px}.note{font-size:17px;fill:#52675b}.line{stroke:#66816a;stroke-width:4;fill:none}</style><rect width="1000" height="640" rx="24" fill="#f5f4ec"/><text x="48" y="58" class="title">心当たりのない水量増加。次にすることは？</text>
+<rect x="55" y="95" width="890" height="72" rx="16" fill="#e1ece0"/><text x="85" y="140" class="label">１　家族に声をかけ、家中の蛇口を閉める</text>
+<path d="M500 172 V196" class="line" marker-end="url(#arrow)"/>
+<rect x="55" y="205" width="890" height="72" rx="16" fill="#e1ece0"/><text x="85" y="250" class="label">２　洗濯・湯はり・トイレなどの給水も止まっているか確認</text>
+<path d="M500 282 V306" class="line" marker-end="url(#arrow)"/>
+<rect x="55" y="315" width="890" height="72" rx="16" fill="#e3ebef"/><text x="85" y="360" class="label">３　自宅のメーターを見る。パイロットは動いている？</text>
+<path d="M300 390 V420 M700 390 V420" class="line" marker-end="url(#arrow)"/>
+<rect x="55" y="433" width="420" height="135" rx="16" fill="#f1e1ce"/><rect x="525" y="433" width="420" height="135" rx="16" fill="#e1ece0"/>
+<text x="85" y="474" class="label">動いている → 漏水を相談</text><text x="85" y="513" class="small">賃貸・マンションは管理窓口へ。</text><text x="85" y="546" class="small">持ち家は水道窓口で相談先を確認。</text>
+<text x="555" y="474" class="label">動かない → 他のサインも確認</text><text x="555" y="513" class="small">使い方の変化を振り返る。</text><text x="555" y="546" class="small">湿り・異音が続くなら相談する。</text>
+<text x="55" y="608" class="note">メーターの表示は機種で異なります。見える水漏れがあれば、手順を待たず連絡を。</text></svg>

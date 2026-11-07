@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" role="img" aria-labelledby="title desc"><title id="title">住み替えかリフォームか検討順の図</title><desc id="desc">家の中の不便は改修可能性の調査、家の外の不便は候補地で生活体験、両方なら暮らし・費用・手間で比べる。</desc><defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="none" stroke="#66816a" stroke-width="1.5"/></marker></defs><style>text{font-family:'Noto Sans JP','Hiragino Kaku Gothic ProN',sans-serif;fill:#293d35}.title{font-size:30px;font-weight:700}.label{font-size:24px;font-weight:700}.small{font-size:20px}.note{font-size:17px;fill:#52675b}.line{stroke:#66816a;stroke-width:4;fill:none}</style><rect width="1000" height="570" rx="24" fill="#f5f4ec"/><text x="48" y="58" class="title">一番変えたい不便は「家の中」？「家の外」？</text>
+<rect x="40" y="105" width="285" height="340" rx="22" fill="#e0ecdf"/><rect x="357" y="105" width="285" height="340" rx="22" fill="#e3ebef"/><rect x="675" y="105" width="285" height="340" rx="22" fill="#f1e5cc"/>
+<text x="65" y="155" class="label">家の中を変えたい</text><text x="382" y="155" class="label">場所を変えたい</text><text x="700" y="155" class="label">両方気になる</text>
+<text x="65" y="207" class="small">寒いお風呂</text><text x="65" y="242" class="small">使いにくい収納</text><text x="65" y="277" class="small">階段・段差</text>
+<text x="382" y="207" class="small">遠い買い物先</text><text x="382" y="242" class="small">通院や坂道の負担</text><text x="382" y="277" class="small">家族との距離</text>
+<text x="700" y="207" class="small">広すぎる住まい</text><text x="700" y="242" class="small">家と周辺環境の不便</text><text x="700" y="277" class="small">家族の希望が違う</text>
+<path d="M182 300 V333 M499 300 V333 M817 300 V333" class="line" marker-end="url(#arrow)"/>
+<text x="65" y="380" class="label">改修でできることを</text><text x="65" y="416" class="label">現地で調べる</text>
+<text x="382" y="380" class="label">候補の街で</text><text x="382" y="416" class="label">買い物・移動を体験</text>
+<text x="700" y="380" class="label">暮らし・費用・手間を</text><text x="700" y="416" class="label">同じ条件で比べる</text>
+<text x="48" y="500" class="small">迷ったら、解消したい不便を３つ書くことから。</text><text x="48" y="540" class="note">これは検討順の整理です。改修の可否や予算は、個別の建物・条件で確認します。</text></svg>
