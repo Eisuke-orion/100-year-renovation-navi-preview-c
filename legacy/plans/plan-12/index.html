@@ -71,7 +71,25 @@
 .ed-steps{padding:0!important;list-style:none!important;counter-reset:st}.ed-steps li{counter-increment:st;position:relative;padding:14px 12px 18px 54px;border-bottom:1px solid #dde4d8}.ed-steps li:before{content:counter(st);position:absolute;left:5px;top:15px;border-radius:50%;background:#526e54;color:white;width:32px;height:32px;line-height:32px;text-align:center;font-weight:bold}
 .ed-bar{display:flex;height:40px;color:#fff;text-align:center;line-height:40px;margin:9px 0 20px;font-weight:bold}.ed-principal{background:#597c68}.ed-interest{background:#b57951}.ed-alert{padding:18px 22px;background:#fff2e9;border-left:4px solid #b66c48;margin:24px 0}.ed-alert p:last-child{margin-bottom:0}
 @media(max-width:600px){.column-article-body h2{font-size:23px}.ed-grid{grid-template-columns:1fr}.column-article-body .ed-figure{padding:10px}.ed-sheet{padding:16px}.ed-bar{font-size:13px}.column-article-body .ed-answer{font-size:17px}}
-</style><style>.figure-expand{display:inline-block;font-size:14px!important;padding:8px 0;text-decoration:underline;color:#405e49}.column-article-body figure{max-width:100%}</style><style>.c-main .ed-table table{min-width:0;table-layout:fixed}.c-main .ed-table th:first-child{width:31%}.c-main .ed-table th,.c-main .ed-table td{overflow-wrap:anywhere;white-space:normal}</style></head>
+</style><style>.figure-expand{display:inline-block;font-size:14px!important;padding:8px 0;text-decoration:underline;color:#405e49}.column-article-body figure{max-width:100%}</style><style>.c-main .ed-table table{min-width:0;table-layout:fixed}.c-main .ed-table th:first-child{width:31%}.c-main .ed-table th,.c-main .ed-table td{overflow-wrap:anywhere;white-space:normal}</style><style>
+/* Small equipment references for episode 35; no shared-template changes. */
+.column-article-body .equipment-row{display:grid;grid-template-columns:176px minmax(0,1fr);grid-template-areas:"photo title" "photo copy";column-gap:22px;row-gap:10px;margin:28px 0;align-items:start}
+.column-article-body .equipment-row figure{grid-area:photo;margin:0;width:176px}
+.equipment-row figure a{display:block;border-radius:10px;overflow:hidden}
+.equipment-row img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:contain;border-radius:10px}
+.equipment-row figcaption{font-size:12px;line-height:1.6;color:#596452;margin-top:6px}
+.column-article-body .equipment-row h3{grid-area:title;margin:0;font-size:20px;line-height:1.6}
+.column-article-body .equipment-row p{grid-area:copy;margin:0}
+.equipment-row a:focus-visible{outline:3px solid #496848;outline-offset:3px}
+.column-article-body .section-source{margin:12px 0 0;font-size:12px;line-height:1.7;color:#687160;text-align:right}
+.section-source a{text-decoration:underline}
+@media(max-width:600px){
+  .column-article-body .equipment-row{grid-template-columns:112px minmax(0,1fr);grid-template-areas:"photo title" "copy copy";column-gap:16px;row-gap:14px;margin:26px 0}
+  .column-article-body .equipment-row figure{width:112px}
+  .column-article-body .equipment-row h3{align-self:center;font-size:19px}
+  .equipment-row figcaption{font-size:11px}
+}
+</style></head>
 <body>
 <header>
 <div class="inner">
@@ -349,51 +367,65 @@
 </ol></nav>
 <article class="column-article-body">
 <section id="section-1"><h2>1. まずは体と床の冷えを防ぐ</h2>
-<p>家の安全を確かめ、懐中電灯やLEDランタンで足元を照らします。電気ストーブなどの電熱器具はスイッチを切り、安全にできるものはプラグを抜いておきましょう。電気が突然戻ったときの火災を防ぐためです。<a href="#source-1">[1]</a></p>
+<p>家の安全を確かめ、懐中電灯やLEDランタンで足元を照らします。電気ストーブなどの電熱器具はスイッチを切り、安全にできるものはプラグを抜いておきましょう。電気が突然戻ったときの火災を防ぐためです。</p>
 <p>次に、上着・靴下・毛布を手元へ。乾いた衣類を重ね、首元や足元も包みます。家族で安全な一室に集まると、防寒用品をまとめやすく、お互いの様子にも気づけます。</p>
-<figure class="ed-figure"><a aria-label="画像を拡大して見る" href="winter-room-photo.webp" rel="noopener" target="_blank"><img alt="カーテンを閉めた一室に家族で集まり、重ね着と毛布で保温し、LEDランタンで明かりをとっている" height="1024" loading="lazy" src="winter-room-photo.webp" width="1536"/></a><figcaption>一室に集まり、衣類・毛布・カーテン・ラグで保温するイメージ。実写風の生成画像です。</figcaption><a class="figure-expand" href="winter-room-photo.webp" rel="noopener" target="_blank">画像を拡大して見る</a></figure>
-<p>床に座るなら、ラグやマット、敷布団を一枚。寝るときも、掛ける物だけでなく<strong>体と冷たい床の間に敷く物</strong>を用意します。夜はカーテンを閉め、使わない部屋の扉も閉めて、冷気を入りにくくしましょう。換気口や避難する通り道は、物でふさがずに空けておきます。<a href="#source-2">[2]</a></p>
+<figure class="ed-figure"><a aria-label="画像を拡大して見る" href="winter-room-photo.webp" rel="noopener" target="_blank"><img alt="カーテンを閉めた一室に家族で集まり、重ね着と毛布で保温し、LEDランタンで明かりをとっている" height="1024" loading="lazy" src="winter-room-photo.webp" width="1536"/></a><figcaption>衣類・毛布・カーテン・ラグで、体の熱を逃がしにくく。</figcaption><a class="figure-expand" href="winter-room-photo.webp" rel="noopener" target="_blank">画像を拡大して見る</a></figure>
+<p>床に座るなら、ラグやマット、敷布団を一枚。寝るときも、掛ける物だけでなく<strong>体と冷たい床の間に敷く物</strong>を用意します。夜はカーテンを閉め、使わない部屋の扉も閉めて、冷気を入りにくくしましょう。換気口や避難する通り道は、物でふさがずに空けておきます。</p>
+<p class="section-source"><a href="#source-1">この節の出典・参考資料</a></p>
 </section>
 <section id="section-2"><h2>2. 電気がなくても使える暖房と防寒用品</h2>
 <p>暖房を一台備えるなら、<strong>コンセント不要の石油ストーブや、屋内用のカセットガス暖房器具</strong>が候補になります。「灯油を使うから大丈夫」と思っていても、コンセントからの電気で動くファンヒーターは、停電すると止まります。家の機器の型番から説明書を探し、電源の要否を確かめましょう。</p>
 <div class="ed-table" tabindex="0" aria-label="電源不要の暖房を比べる表。狭い画面では横にスクロールできます"><table><thead><tr><th scope="col">暖房の種類</th><th scope="col">備えるときに見るところ</th></tr></thead><tbody>
-<tr><th scope="row">電源不要の石油ストーブ</th><td>灯油と、機種に合った点火用の乾電池などを準備。手回しで点火する機種もあります。給油や燃料の保管場所まで考えて選びます。<a href="#source-3">[3]</a></td></tr>
-<tr><th scope="row">屋内用のカセットガス暖房器具</th><td>指定のボンベ、暖房できる広さ、1本の燃焼時間を確認。小型機だけで広いリビングを暖めようとせず、過ごす場所に合った機種を選びます。<a href="#source-4">[4]</a></td></tr>
+<tr><th scope="row">電源不要の石油ストーブ</th><td>灯油と、機種に合った点火用の乾電池などを準備。手回しで点火する機種もあります。給油や燃料の保管場所まで考えて選びます。</td></tr>
+<tr><th scope="row">屋内用のカセットガス暖房器具</th><td>指定のボンベ、暖房できる広さ、1本の燃焼時間を確認。小型機だけで広いリビングを暖めようとせず、過ごす場所に合った機種を選びます。</td></tr>
 </tbody></table></div>
 <p>どちらも、カーテンや寝具から離して置けることと、換気ができることが前提です。集合住宅では、石油暖房や燃料の保管に決まりがないか、管理規約なども確認しておきましょう。</p>
 <p>燃料は「何本あれば安心」と一律に決めず、説明書の燃焼時間を見て、<strong>一日に何時間使いたいか</strong>から見積もります。たとえば1本で約3時間使える機器を1日6時間、3日間使う想定なら、計算上は6本。これは説明用の例で、実際には機種・火力・気温で変わります。調理にも使う分は別に数えます。</p>
 <h3>カイロと寝具は、家族の分をひとまとめに</h3>
-<p>使い捨てカイロは、電気も火も使わず体の一部を温められる備えです。予備を置き、使用期限も確認しておくと、寒い日にすぐ取り出せます。<strong>肌に直接当てず、同じ場所を長く温めないこと。寝るときは外してください。</strong>熱さに気づきにくい方や、自分で外せない方は特に注意が必要です。<a href="#source-5">[5]</a></p>
-<p>夜に備えるなら、家族分の毛布・布団に加え、寒さに合う寝袋も選択肢です。湯たんぽは、安全にお湯を用意できるときに。明るく安定した場所で製品指定の温度・量を守って注ぎ、布団が暖まったら取り出してから寝ましょう。カバーで包んでも、長時間触れていると低温やけどのおそれがあります。<a href="#source-6">[6]</a></p>
+<p>使い捨てカイロは、電気も火も使わず体の一部を温められる備えです。予備を置き、使用期限も確認しておくと、寒い日にすぐ取り出せます。<strong>肌に直接当てず、同じ場所を長く温めないこと。寝るときは外してください。</strong>熱さに気づきにくい方や、自分で外せない方は特に注意が必要です。</p>
+<p>夜に備えるなら、家族分の毛布・布団に加え、寒さに合う寝袋も選択肢です。湯たんぽは、安全にお湯を用意できるときに。明るく安定した場所で製品指定の温度・量を守って注ぎ、布団が暖まったら取り出してから寝ましょう。カバーで包んでも、長時間触れていると低温やけどのおそれがあります。</p>
+<p class="section-source"><a href="#source-3">この節の出典・参考資料</a></p>
 </section>
 <section id="section-3"><h2>3. 暖を取るときに守りたい、換気と火の扱い</h2>
-<p>寒いと窓を閉め切りたくなりますが、燃料を燃やす暖房には換気が欠かせません。一酸化炭素は色もにおいもなく、気づかないうちに中毒を起こすおそれがあります。<a href="#source-7">[7]</a></p>
+<p>寒いと窓を閉め切りたくなりますが、燃料を燃やす暖房には換気が欠かせません。一酸化炭素は色もにおいもなく、気づかないうちに中毒を起こすおそれがあります。</p>
 <ol class="ed-steps">
-<li><strong>停電中の換気は、窓を開けて。</strong><br/>換気扇が止まっていることを忘れずに。頻度や方法は機器の説明書に従います。石油ストーブには「1時間に1〜2回、1〜2分」を案内する機種もあります。窓が凍るなど、十分に換気できない場所では使いません。<a href="#source-3">[3]</a></li>
-<li><strong>炭・練炭や屋外専用器具を、室内の暖房に使わない。</strong><br/>七輪などを持ち込んで暖を取るのは危険です。燃料式発電機も屋内・車内・テント内では使えません。屋外でも排気が窓や換気口から入らない、風通しのよい場所が必要です。<a href="#source-1">[1]</a><a href="#source-8">[8]</a></li>
-<li><strong>カセットこんろは調理に使う。</strong><br/>暖房代わりにつけ続けたり、ボンベを覆うような大きな鍋を載せたりしないでください。予備のボンベもストーブのそばに置かず、熱くならない場所へ。<a href="#source-9">[9]</a></li>
-<li><strong>寝る前・外出前は消火し、給油は冷めてから。</strong><br/>石油ストーブは火が消えたことを確かめます。給油は本体が十分に冷め、周りに火の気がない場所で。布団・衣類・カーテンとの距離も、説明書に従って確保しましょう。<a href="#source-3">[3]</a></li>
+<li><strong>停電中の換気は、窓を開けて。</strong><br/>換気扇が止まっていることを忘れずに。頻度や方法は機器の説明書に従います。石油ストーブには「1時間に1〜2回、1〜2分」を案内する機種もあります。窓が凍るなど、十分に換気できない場所では使いません。</li>
+<li><strong>炭・練炭や屋外専用器具を、室内の暖房に使わない。</strong><br/>七輪などを持ち込んで暖を取るのは危険です。燃料式発電機も屋内・車内・テント内では使えません。屋外でも排気が窓や換気口から入らない、風通しのよい場所が必要です。</li>
+<li><strong>カセットこんろは調理に使う。</strong><br/>暖房代わりにつけ続けたり、ボンベを覆うような大きな鍋を載せたりしないでください。予備のボンベもストーブのそばに置かず、熱くならない場所へ。</li>
+<li><strong>寝る前・外出前は消火し、給油は冷めてから。</strong><br/>石油ストーブは火が消えたことを確かめます。給油は本体が十分に冷め、周りに火の気がない場所で。布団・衣類・カーテンとの距離も、説明書に従って確保しましょう。</li>
 </ol>
-<div class="ed-alert"><strong>頭痛や吐き気が出たら、その場で我慢しないで。</strong><p>燃焼器具の使用中に異変を感じたら、一酸化炭素中毒の可能性もあります。新鮮な空気のある安全な場所へ離れ、119番で救急を求めてください。<a href="#source-7">[7]</a></p></div>
+<div class="ed-alert"><strong>頭痛や吐き気が出たら、その場で我慢しないで。</strong><p>燃焼器具の使用中に異変を感じたら、一酸化炭素中毒の可能性もあります。新鮮な空気のある安全な場所へ離れ、119番で救急を求めてください。</p></div>
+<p class="section-source"><a href="#source-1">この節の出典・参考資料</a></p>
 </section>
 <section id="section-4"><h2>4. 寒さが続くときと、電気が戻ったとき</h2>
 <p>重ね着や寝具を使っても冷えがつらいときは、暖房のある場所へ移ることを早めに考えます。特に高齢の方や乳幼児、体調が悪い方がいる家庭では、停電の復旧を待ち続けず、親族宅や自治体の開設した避難所などへ連絡を。<strong>受け入れと暖房、移動経路の安全</strong>を確かめてから向かいましょう。</p>
-<p>ふらつく、受け答えがおかしい、意識がはっきりしないなどの異変は、救急へ連絡するサインです。温度計の数字だけでなく、家族の様子も見ます。大雪などで外へ出ることが危険なら、自治体や消防へ支援を求めてください。<a href="#source-2">[2]</a></p>
+<p>ふらつく、受け答えがおかしい、意識がはっきりしないなどの異変は、救急へ連絡するサインです。温度計の数字だけでなく、家族の様子も見ます。大雪などで外へ出ることが危険なら、自治体や消防へ支援を求めてください。</p>
 <h3>電気が戻っても、暖房を入れる前にひと確認</h3>
-<p>電気ストーブなどに落ちた布や紙が触れていないか、コードが傷んだり濡れたりしていないかを見ます。異常がある機器は使わず点検を相談しましょう。避難で家を離れる際は、安全に操作できる時間があればブレーカーを切っておくと、復電時の火災対策になります。<a href="#source-1">[1]</a></p>
+<p>電気ストーブなどに落ちた布や紙が触れていないか、コードが傷んだり濡れたりしていないかを見ます。異常がある機器は使わず点検を相談しましょう。避難で家を離れる際は、安全に操作できる時間があればブレーカーを切っておくと、復電時の火災対策になります。</p>
+<p class="section-source"><a href="#source-1">この節の出典・参考資料</a></p>
 </section>
 <section id="section-5"><h2>5. もう少し備えるなら、お湯と電源も</h2>
 <p>寒さ対策に加えて、お湯と連絡手段を確保できると心強いもの。今ある設備で何ができるかも見ておきましょう。</p>
-<h3>エコキュートにためたお湯</h3>
-<p>断水せずタンクにお湯が残っていれば、停電中も蛇口などで使える機種があります。断水時は非常用取水栓から生活用水を取り出す方法も。やけどに注意し、自宅の機種の説明書で手順を確認します。<strong>飲み水は別に備えましょう</strong>。<a href="#source-10">[10]</a></p>
+<div class="equipment-row">
+<figure><a href="solar-panels.webp" target="_blank" rel="noopener" aria-label="屋根の太陽光パネルの画像を拡大"><img src="solar-panels.webp" alt="戸建て住宅の屋根に設置された太陽光発電パネル" width="640" height="640" loading="lazy" decoding="async"/></a><figcaption>屋根の太陽光パネル</figcaption></figure>
 <h3>太陽光発電と住宅用蓄電池</h3>
-<p>停電時の運転への切り替え方と、使えるコンセント・機器を確認します。太陽光は夜間に発電できず、日中も天候で発電量が変わります。蓄電池にも残量・出力の限りがあるので、照明など優先したいものを決めておきましょう。<a href="#source-11">[11]</a></p>
-<h3>スマホと明かりのためのバッテリー</h3>
-<p>スマホ用のモバイルバッテリーや、LED照明などに使えるポータブル電源を、ケーブルと一緒に準備。残量や接続を普段から確認します。電気毛布にも使うなら、電源の<strong>出力（W）・容量（Wh）と使用時間</strong>を確認。医療機器の電源は供給元や医療機関へ相談してください。<a href="#source-12">[12]</a></p>
+<p>太陽光パネルで電気をつくり、住宅用蓄電池は電気をためておく設備です。停電時の運転への切り替え方と、使えるコンセント・機器を確認します。太陽光は夜間に発電できず、日中も天候で発電量が変わります。蓄電池にも残量・出力の限りがあるので、照明など優先したいものを決めておきましょう。</p>
+</div>
+<div class="equipment-row">
+<figure><a href="ecocute-equipment.webp" target="_blank" rel="noopener" aria-label="エコキュートのタンクと室外機の画像を拡大"><img src="ecocute-equipment.webp" alt="屋外に設置されたエコキュート。右の背の高い貯湯タンクと、左のファンが付いたヒートポンプユニット" width="640" height="640" loading="lazy" decoding="async"/></a><figcaption>貯湯タンクと室外機</figcaption></figure>
+<h3>エコキュートにためたお湯</h3>
+<p>空気の熱を利用してお湯を沸かし、タンクにためる給湯設備です。断水せずタンクにお湯が残っていれば、停電中も蛇口などで使える機種があります。断水時は非常用取水栓から生活用水を取り出す方法も。やけどに注意し、自宅の機種の説明書で手順を確認します。<strong>飲み水は別に備えましょう</strong>。</p>
+</div>
+<div class="equipment-row">
+<figure><a href="portable-power.webp" target="_blank" rel="noopener" aria-label="ポータブル電源の画像を拡大"><img src="portable-power.webp" alt="持ち手のあるポータブル電源と、USBケーブルでつないだスマートフォン。横にLEDランタンを備えている" width="640" height="640" loading="lazy" decoding="async"/></a><figcaption>持ち運べる蓄電池</figcaption></figure>
+<h3>スマホと明かりのためのポータブル電源</h3>
+<p>スマホ用のモバイルバッテリーや、LED照明などに使えるポータブル電源を、ケーブルと一緒に準備。残量や接続を普段から確認します。電気毛布にも使うなら、電源の<strong>出力（W）・容量（Wh）と使用時間</strong>を確認。医療機器の電源は供給元や医療機関へ相談してください。</p>
+</div>
+<p class="section-source"><a href="#source-10">この節の出典・参考資料</a></p>
 </section></article>
 <section class="column-faqs column-article-body"><h2>よくある質問</h2>
 <p><strong>Q. カセットガスの暖房なら、どれでも室内で使えますか？</strong><br/>屋内用か屋外用かを、製品表示と説明書で確かめます。屋内用でも換気や周囲との距離などの条件があります。使う部屋で守れるかを確認して選びましょう。</p>
-<p><strong>Q. カイロを貼ったまま寝てもいい？</strong><br/>就寝時は外してください。布団の中で熱がこもったり、同じ場所に触れ続けたりして低温やけどにつながります。夜の保温は衣類と寝具を基本に考えます。<a href="#source-5">[5]</a></p>
+<p><strong>Q. カイロを貼ったまま寝てもいい？</strong><br/>就寝時は外してください。布団の中で熱がこもったり、同じ場所に触れ続けたりして低温やけどにつながります。夜の保温は衣類と寝具を基本に考えます。</p>
 <p><strong>Q. まず何から準備すればいいですか？</strong><br/>ライト・毛布・上着・カイロを取り出せる場所にまとめ、家族の分があるか確認してみましょう。その次に、家の暖房が停電時に使えるか、燃料と換気する窓まで確かめると、足りない備えが分かります。</p></section>
 <section class="column-family-questions column-article-body" style="background:white;border:1px solid #dfe5d8;border-radius:16px;padding:24px;margin:36px 0"><h2>家族と話し合おう</h2><ul>
 <li>ライト・毛布・カイロは、暗くても取り出せますか？</li>
@@ -401,7 +433,7 @@
 <li>自宅が寒すぎるとき、誰に連絡してどこへ移りますか？</li>
 </ul></section>
 <aside class="column-article-body" style="background:#f7f0e4;border-radius:16px;padding:24px;margin:36px 0"><h2>この記事のまとめ</h2><p>冬の停電には、体の熱を逃がさない備えと、安全に使える暖房の両方が役立ちます。毛布やカイロをそろえ、ストーブは燃料・換気・置き場所まで確認。今夜、家族で「停電したらどの部屋で過ごす？」と話してみると、わが家に必要なものが見えてきます。</p></aside>
-<details class="c-sources"><summary>出典・参考資料を見る</summary><ol><li id="source-1"><a href="https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_078" rel="noopener" target="_blank">[1] 消費者庁：携帯発電機・ポータブル電源の事故と通電火災への注意</a></li><li id="source-2"><a href="https://www.mhlw.go.jp/content/10900000/000807262.pdf" rel="noopener" target="_blank">[2] 日本公衆衛生協会／全国保健師長会：災害時の保健活動推進マニュアル p.36（厚生労働省掲載）</a></li><li id="source-3"><a href="https://www.toyotomi.jp/manual/operation/RS-G2424.pdf" rel="noopener" target="_blank">[3] トヨトミ：電源不要の石油ストーブと、RS-G2424取扱説明書 p.1</a></li><li id="source-4"><a href="https://prtimes.jp/main/html/rd/p/000000186.000048859.html" rel="noopener" target="_blank">[4] 岩谷産業：電源不要のカセットガスストーブ製品発表（PR TIMES掲載）</a></li><li id="source-5"><a href="https://www.nite.go.jp/jiko/chuikanki/press/2024fy/prs250114.html" rel="noopener" target="_blank">[5] NITE：就寝時の足元暖房・カイロの事故への注意</a></li><li id="source-6"><a href="https://www.kokusen.go.jp/mimamori/pdf/shinsen328.pdf" rel="noopener" target="_blank">[6] 国民生活センター：湯たんぽによる低温やけどに注意</a></li><li id="source-7"><a href="https://www.city.minoh.lg.jp/yobou/cotyuudou.html" rel="noopener" target="_blank">[7] 箕面市：一酸化炭素中毒への注意と異変時の対応</a></li><li id="source-8"><a href="https://www.shouhiseikatu.metro.tokyo.lg.jp/anzen/test/hatsudenki_press.html" rel="noopener" target="_blank">[8] 東京都：発電機・木炭等による一酸化炭素中毒の危険性</a></li><li id="source-9"><a href="https://www.jgka.or.jp/gasusekiyu_riyou/anzen/gasu_cassette/index.html" rel="noopener" target="_blank">[9] 日本ガス石油機器工業会：カセットこんろ・ボンベの安全な使い方</a></li><li id="source-10"><a href="https://sumai.panasonic.jp/saigai/hp/0001.html" rel="noopener" target="_blank">[10] Panasonic：エコキュート 水害時・停電時・断水時のQ&A</a></li><li id="source-11"><a href="https://www.jpea.gr.jp/house/poweroutage/" rel="noopener" target="_blank">[11] 太陽光発電協会：停電時でも電気が使えます</a></li><li id="source-12"><a href="https://litheli.jvc.com/portable-power-guide/" rel="noopener" target="_blank">[12] JVC：ポータブル電源の選び方</a></li></ol><p>補足確認：<a href="https://www.mitsubishielectric.co.jp/home/ecocute/notice/pdf/blackout-water-outage-operation.pdf" rel="noopener" target="_blank">三菱電機・停電時／断水時の処置</a>、<a href="https://jp.sharp/sunvista/support/jiritsu/" rel="noopener" target="_blank">シャープ・自立運転の機種別条件</a>、<a href="https://litheli.jvc.com/bousai-home/" rel="noopener" target="_blank">JVC・家庭内防災</a>。</p><p>構成の参考：<a href="https://www.jackery.jp/blogs/disaster-prevention/heating-equipment-useful-during-power-outages" rel="noopener" target="_blank">Jackery</a>、<a href="https://www.bluetti.jp/blogs/disaster-prevention/heating-during-power-outages-guide" rel="noopener" target="_blank">BLUETTI</a>、<a href="https://lifexrees.com/disaster-prevention/winter-power-outage-heating-safety/" rel="noopener" target="_blank">LifeXrees</a>。安全事項と設備の条件は上記の公的資料・メーカー資料で確認しています。</p><p>確認日：2026年11月10日。本文は独自に制作。製品ごとの条件は取扱説明書でご確認ください。</p></details><section class="c-links"><h2>関連する住まいの機能・設備を探す</h2><div data-source-feature="preserved" style="display:flex;flex-direction:column;gap:8px;font-size:14.5px;"><p>暖房設備、給湯設備、凍結防止の仕組み、分電盤、非常用電源の切替設備</p>
+<details class="c-sources"><summary>出典・参考資料を見る</summary><ul><li id="source-1"><a href="https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_078" rel="noopener" target="_blank">消費者庁：携帯発電機・ポータブル電源の事故と通電火災への注意</a></li><li id="source-2"><a href="https://www.mhlw.go.jp/content/10900000/000807262.pdf" rel="noopener" target="_blank">日本公衆衛生協会／全国保健師長会：災害時の保健活動推進マニュアル p.36（厚生労働省掲載）</a></li><li id="source-3"><a href="https://www.toyotomi.jp/manual/operation/RS-G2424.pdf" rel="noopener" target="_blank">トヨトミ：電源不要の石油ストーブと、RS-G2424取扱説明書 p.1</a></li><li id="source-4"><a href="https://prtimes.jp/main/html/rd/p/000000186.000048859.html" rel="noopener" target="_blank">岩谷産業：電源不要のカセットガスストーブ製品発表（PR TIMES掲載）</a></li><li id="source-5"><a href="https://www.nite.go.jp/jiko/chuikanki/press/2024fy/prs250114.html" rel="noopener" target="_blank">NITE：就寝時の足元暖房・カイロの事故への注意</a></li><li id="source-6"><a href="https://www.kokusen.go.jp/mimamori/pdf/shinsen328.pdf" rel="noopener" target="_blank">国民生活センター：湯たんぽによる低温やけどに注意</a></li><li id="source-7"><a href="https://www.city.minoh.lg.jp/yobou/cotyuudou.html" rel="noopener" target="_blank">箕面市：一酸化炭素中毒への注意と異変時の対応</a></li><li id="source-8"><a href="https://www.shouhiseikatu.metro.tokyo.lg.jp/anzen/test/hatsudenki_press.html" rel="noopener" target="_blank">東京都：発電機・木炭等による一酸化炭素中毒の危険性</a></li><li id="source-9"><a href="https://www.jgka.or.jp/gasusekiyu_riyou/anzen/gasu_cassette/index.html" rel="noopener" target="_blank">日本ガス石油機器工業会：カセットこんろ・ボンベの安全な使い方</a></li><li id="source-10"><a href="https://sumai.panasonic.jp/saigai/hp/0001.html" rel="noopener" target="_blank">Panasonic：エコキュート 水害時・停電時・断水時のQ&A</a></li><li id="source-11"><a href="https://www.jpea.gr.jp/house/poweroutage/" rel="noopener" target="_blank">太陽光発電協会：停電時でも電気が使えます</a></li><li id="source-12"><a href="https://litheli.jvc.com/portable-power-guide/" rel="noopener" target="_blank">JVC：ポータブル電源の選び方</a></li></ul><p>補足確認：<a href="https://www.mitsubishielectric.co.jp/home/ecocute/notice/pdf/blackout-water-outage-operation.pdf" rel="noopener" target="_blank">三菱電機・停電時／断水時の処置</a>、<a href="https://jp.sharp/sunvista/support/jiritsu/" rel="noopener" target="_blank">シャープ・自立運転の機種別条件</a>、<a href="https://litheli.jvc.com/bousai-home/" rel="noopener" target="_blank">JVC・家庭内防災</a>。</p><p>記事内の写真は、説明用の生成イメージです。「エコキュート」は関西電力株式会社の登録商標です。</p></details><section class="c-links"><h2>関連する住まいの機能・設備を探す</h2><div data-source-feature="preserved" style="display:flex;flex-direction:column;gap:8px;font-size:14.5px;"><p>暖房設備、給湯設備、凍結防止の仕組み、分電盤、非常用電源の切替設備</p>
 <a href="https://www.cbl.or.jp/r-navi/search_part" rel="noopener noreferrer" target="_blank">部屋・建材・設備から機能を確かめる ↗</a></div></section><section data-publication-status="draft" data-related-articles="" data-related-count="3" data-related-order="descending" style="margin-bottom:44px"><p style="font-family:'Zen Maru Gothic',sans-serif;font-weight:700;font-size:15px;margin:0 0 14px">関連記事</p><div data-source-related="preserved" style="display:flex;flex-direction:column;gap:10px;font-size:14.5px"><a href="/100-year-renovation-navi-preview-c/legacy/column-30.dc.html" data-related-episode="30">【第30回】スマートホームは、もう身近｜親の見守りと留守の確認から始める</a><a href="/100-year-renovation-navi-preview-c/legacy/column-09.dc.html" data-related-episode="9">【第9回】台風の前に、家族で決めておくこと。家の外・中・避難の備え</a><a href="/100-year-renovation-navi-preview-c/legacy/column-06.dc.html" data-related-episode="6">【第6回】「夏をむねとすべし」は今も正解？一年を通じて快適な家</a></div></section><div style="display:flex;align-items:center;gap:16px;background:#fff;border:1px solid oklch(0.89 0.02 85);border-radius:16px;padding:22px;margin-bottom:36px;">
 <img alt="著者エイスケ" id="plan-12-author-box" src="/100-year-renovation-navi-preview-c/legacy/images/author-eisuke.webp" style="width:56px;height:56px;flex:none;display:block;object-fit:cover;border-radius:50%"/>
 <div><p style="font-family:'Zen Maru Gothic',sans-serif;font-weight:700;font-size:14.5px;margin:0 0 6px;">この記事を書いた人｜エイスケ</p><p style="font-size:13px;line-height:1.75;color:oklch(0.48 0.015 90);margin:0;">1986年生まれ。実家の工務店・不動産に10年間従事したのち、教育の世界へ。住宅と教育、両方の視点から「豊かな暮らし」をテーマに執筆します。※本コラムは筆者個人の見解・経験に基づくものです。最終的な判断は各分野の専門家にご相談ください。</p></div>
@@ -499,6 +531,7 @@
 </footer>
 </body>
 </html>
+
 
 
 
