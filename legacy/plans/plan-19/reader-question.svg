@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="title desc">
+<title id="title">寒い冬、換気口をふさいでもいい？</title>
+<desc id="desc">読者の疑問を整理した独自のQ&amp;A図。24時間換気に必要な給気口は開けて使うのが基本。ふさぐと湿気・におい・化学物質を外へ出しにくくなるため、風の当たり方を工夫します。</desc>
+<rect width="760" height="530" rx="24" fill="#f4f0e8"/>
+<text x="38" y="55" font-family="Noto Sans CJK JP,Noto Sans JP,Yu Gothic,Meiryo,sans-serif" font-size="27" font-weight="700" fill="#59664e">冬の住まい、こんな疑問はありませんか</text>
+<rect x="34" y="82" width="692" height="180" rx="20" fill="white" stroke="#d8dfd0" stroke-width="2"/>
+<circle cx="88" cy="136" r="28" fill="#b8774a"/>
+<text x="88" y="148" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="700" fill="white">Q</text>
+<g font-family="Noto Sans CJK JP,Noto Sans JP,Yu Gothic,Meiryo,sans-serif" fill="#343e31" font-size="43" font-weight="700"><text x="138" y="142">寒い冬、換気口を</text><text x="138" y="207">ふさいでもいい？</text></g>
+<rect x="34" y="283" width="692" height="210" rx="20" fill="#e8eee0"/>
+<circle cx="88" cy="333" r="28" fill="#536d50"/>
+<text x="88" y="345" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="700" fill="white">A</text>
+<g font-family="Noto Sans CJK JP,Noto Sans JP,Yu Gothic,Meiryo,sans-serif" fill="#343e31"><text x="138" y="333" font-size="31" font-weight="700">24時間換気に必要な給気口は、</text><text x="138" y="378" font-size="31" font-weight="700">開けて使うのが基本です。</text><text x="60" y="435" font-size="26">ふさぐと、湿気・におい・化学物質を</text><text x="60" y="473" font-size="26">外へ出しにくくなります。寒さは別の工夫で。</text></g>
+</svg>
